@@ -4,10 +4,10 @@
 <h6 align="center"><a href="www.google.com">Live Demo</a></h6>
 <hr / >
 
-#####Description
+##Description
 Movie Fight is a javascript based application thta you can use to make a fight between two of your movies.The movie which is dominating over a factor over another movie has green colur as background over that factor and other has red colour as background.
 
-#####How to Play?
+##How to Play?
 
 On the starting of the app the screen is going to be like this : 
 <img src="./img/img2.PNG">
